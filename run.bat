@@ -1,2 +1,3 @@
+@echo off
 mode con:cols=150 lines=40
-python main.py
+python "%~dp0main.py"
