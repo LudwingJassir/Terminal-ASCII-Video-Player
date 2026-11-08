@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Videos: solo se sube el de ejemplo; los que agregues quedan en tu PC.
+videos/*
+!videos/badapple.mp4
